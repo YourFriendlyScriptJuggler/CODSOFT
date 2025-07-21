@@ -30,6 +30,7 @@ The models were rigorously evaluated using `accuracy_score`, `precision_score`, 
 ### Files
 * `SmsSpamDetection.ipynb`: Jupyter Notebook containing the complete code for data preprocessing, model training, and evaluation.
 
+**LinkedIn Post Link:** https://www.linkedin.com/posts/sulagna-dutta-ab5257358_machinelearning-spamdetection-nlp-activity-7353119667839750146-qFJK?utm_source=share&utm_medium=member_android&rcm=ACoAAFkGomkBXXLKhyNeNzm1_vfkud0iGjwlxtI
 ---
 
 ## 2. Customer Churn Prediction
@@ -64,6 +65,7 @@ Models were evaluated using accuracy, precision, recall, and confusion matrices.
 * `Customer_Churn_Prediction_ML.ipynb`: Jupyter Notebook with comprehensive code for data loading, preprocessing, EDA, model training, and evaluation.
 * `Churn_Modelling.csv`: The raw dataset used for this project.
 
+**LinkedIn Post Link:** https://www.linkedin.com/posts/sulagna-dutta-ab5257358_machinelearning-churnprediction-datascience-activity-7353111541883289600-Dx9G?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFkGomkBXXLKhyNeNzm1_vfkud0iGjwlxtI&utm_campaign=copy_link
 ---
 
 ## 3. Credit Card Fraud Detection
@@ -98,12 +100,12 @@ Evaluation focused on Precision, Recall, and F1-score due to the critical nature
 ### Files
 * `fraud_detection_using_ml (1).ipynb`: Jupyter Notebook containing the full implementation.
 
- 
+ **LinkedIn Post Link:** https://www.linkedin.com/posts/sulagna-dutta-ab5257358_machinelearning-frauddetection-creditcardfraud-activity-7353118020820504577-PCe_?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFkGomkBXXLKhyNeNzm1_vfkud0iGjwlxtI&utm_campaign=copy_link
 
 ## Connect with Me
 
 Feel free to connect with me on LinkedIn to discuss these projects or other machine learning topics!
 
-**LinkedIn Post Link:** [Insert your LinkedIn post URL here after you publish it!]
+
 
 ---

@@ -1,4 +1,4 @@
-# Machine Learning Projects Portfolio
+# ML-Projects-Showcas
 
 This repository showcases a collection of machine learning projects I've developed, demonstrating my skills in various aspects of the ML pipeline, from data preprocessing and exploratory analysis to model building and evaluation. These projects were completed as part of my practical learning and internship experience.
 
